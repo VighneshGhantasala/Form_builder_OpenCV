@@ -1,5 +1,5 @@
 # Form_builder_OpenCV
-Create a simpel html form with an image as input using OpenCV
+Create a simpel html form with an image as input using OpenCV and python
 
 ***Author: Vighnesh Ghantasala***
 
